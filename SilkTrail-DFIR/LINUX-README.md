@@ -3,8 +3,6 @@
 > **Linux forensic triage collection for SecOps, IR, and Microsoft Defender Live Response**
 
 ![Platform](https://img.shields.io/badge/Platform-Linux-green)
-![Platform](https://img.shields.io/badge/Platform-Windows-blue)
-![Shell](https://img.shields.io/badge/Shell-PowerShell-blue)
 ![Shell](https://img.shields.io/badge/Shell-Bash-green)
 ![Use Case](https://img.shields.io/badge/Use%20Case-DFIR-purple)
 ![Mode](https://img.shields.io/badge/Mode-Read--Only-orange)
