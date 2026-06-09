@@ -551,17 +551,11 @@ Only run this tool on systems you own, administer, or have explicit permission t
 **SilkTrail-DFIR** follows the trail left behind by activity on a Windows endpoint.
 
 Processes.
-
 Connections.
-
 Users.
-
 Persistence.
-
 Events.
-
 Browser artifacts.
-
 Defender evidence.
 
 All woven into one portable collection package.
