@@ -8,6 +8,9 @@
 ![Mode](https://img.shields.io/badge/Mode-Read--Only-orange)
 
 ---
+<img src="https://github.com/SecG3ek/Blue-Team/blob/main/SilkTrail-DFIR/SilkTrail-DFIR_LinuxEdition.gif" alt="Demo" width="800" />
+
+---
 
 ## 🧠 What Is SilkTrail DFIR?
 
