@@ -8,6 +8,9 @@
 > **SilkTrail-DFIR** is a PowerShell-based Windows incident response collection script built for fast host triage, SIEM-ready exports, and Microsoft Defender for Endpoint Live Response workflows.
 
 ---
+<img src="https://github.com/SecG3ek/Blue-Team/blob/main/SilkTrail-DFIR/SilkTrail-DFIR_WindowsEdition.gif" alt="Windows Demo" width="800" />
+
+---
 
 ## 🌟 Overview
 
